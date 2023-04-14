@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.5.0",
-    "core-js": "^3.9.1",
+    "core-js": "^3.29.1",
     "es6-promise": "^4.2.8",
     "jquery": "^3.5.1",
     "office-ui-fabric-react": "^7.121.8",
